@@ -60,9 +60,3 @@ Passionné par l'architecture logicielle et le développement SaaS, je combine a
 <div align="center">
   <img src="https://github.com/Deeffault/Deeffault/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
----
-
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</div>
